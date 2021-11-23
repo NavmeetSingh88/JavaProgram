@@ -1,3 +1,5 @@
 public class Hello {
-jasdasjas
+
+  System.out.println("safas");
+
 }
